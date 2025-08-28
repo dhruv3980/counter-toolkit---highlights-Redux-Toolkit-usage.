@@ -50,7 +50,7 @@ const App = () => {
       />
       <br />
       <br />
-      <button onClick={fixamount}>incrementByAmmoun t</button>
+      <button onClick={fixamount}>incrementByAmmount</button>
     </div>
   );
 };
